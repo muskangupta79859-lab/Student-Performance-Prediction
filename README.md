@@ -48,3 +48,14 @@ student performance and the reasoning behind model selection.
 ## Evaluation
 Model performance was evaluated using appropriate metrics
 such as R² score or accuracy.
+
+## What I Learned
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature selection for prediction
+- Understanding model performance
+
+## Future Improvements
+- Try different machine learning models
+- Improve accuracy with tuning
+- Add more visualizations
