@@ -59,3 +59,8 @@ such as R² score or accuracy.
 - Try different machine learning models
 - Improve accuracy with tuning
 - Add more visualizations
+
+## Tech Stack Expansion
+- Python for logic building
+- SQL for data storage
+- Django for web development
